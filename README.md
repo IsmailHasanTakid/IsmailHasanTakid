@@ -173,6 +173,11 @@ I believe consistent problem-solving improves logical thinking, programming fund
 ## 📊 GitHub Statistics
 
 <!--STATS_START-->
+| 📦 Repositories | ⭐ Stars | 👥 Followers |
+|:---:|:---:|:---:|
+| 26 | 0 | 0 |
+
+**Top Languages:** TypeScript (7) · JavaScript (6) · Jupyter Notebook (3) · CSS (3) · Python (3)
 <!--STATS_END-->
 
 
