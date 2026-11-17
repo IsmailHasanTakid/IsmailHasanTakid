@@ -172,14 +172,10 @@ I believe consistent problem-solving improves logical thinking, programming fund
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsmailHasanTakid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailHasanTakid&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IsmailHasanTakid&theme=tokyonight&hide_border=true" width="70%" />
-</p>
+<!--STATS_START-->
+<!--STATS_END-->
 
 
 ## 🤝 Connect With Me
