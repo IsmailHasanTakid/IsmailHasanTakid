@@ -172,8 +172,6 @@ I believe consistent problem-solving improves logical thinking, programming fund
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <!--STATS_START-->
 <!--STATS_END-->
 
